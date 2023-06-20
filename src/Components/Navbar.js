@@ -61,6 +61,12 @@ const Navbar = () => {
                 Technology
               </Link>
             </li>
+            <h7
+                className="-flex justify-content-between"
+                style={{ color: "White", margin: "auto", marginLeft: "530px" }}
+              >
+                Made With &hearts; By Ayush Chodvadiya
+              </h7>
           </ul>
         </div>
       </div>
